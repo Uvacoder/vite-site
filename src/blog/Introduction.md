@@ -1,6 +1,5 @@
 ---
 title: Introduction
-description: this is wizardpisces blog introduction
 ---
 
 ## 博客内容
